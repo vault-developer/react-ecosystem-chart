@@ -17,3 +17,13 @@
 | [Zustand](https://github.com/pmndrs/zustand) (React.js)           | ![GitHub Repo stars](https://img.shields.io/github/stars/pmndrs/zustand?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/forks/pmndrs/zustand?style=flat&color=589D7C&label=) | ![GitHub Repo stars](https://img.shields.io/github/issues/pmndrs/zustand?style=flat&color=red&label=) | ![GitHub Repo stars](https://img.shields.io/github/issues-pr/pmndrs/zustand?style=flat&color=E09F3E&label=) | ![GitHub Repo stars](https://img.shields.io/github/license/pmndrs/zustand?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/commit-activity/m/pmndrs/zustand?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/created-at/pmndrs/zustand?style=flat&color=90708C&label=) |
 | [Mobx](https://github.com/mobxjs/mobx)              | ![GitHub Repo stars](https://img.shields.io/github/stars/mobxjs/mobx?style=flat&label=)  | ![GitHub Repo stars](https://img.shields.io/github/forks/mobxjs/mobx?style=flat&color=589D7C&label=)  | ![GitHub Repo stars](https://img.shields.io/github/issues/mobxjs/mobx?style=flat&color=red&label=)  | ![GitHub Repo stars](https://img.shields.io/github/issues-pr/mobxjs/mobx?style=flat&color=E09F3E&label=)  | ![GitHub Repo stars](https://img.shields.io/github/license/mobxjs/mobx?style=flat&label=)  | ![GitHub Repo stars](https://img.shields.io/github/commit-activity/m/mobxjs/mobx?style=flat&label=)  | ![GitHub Repo stars](https://img.shields.io/github/created-at/mobxjs/mobx?style=flat&color=90708C&label=)  |
 | [Jotai](https://github.com/pmndrs/jotai) (React.js) | ![GitHub Repo stars](https://img.shields.io/github/stars/pmndrs/jotai?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/forks/pmndrs/jotai?style=flat&color=589D7C&label=) | ![GitHub Repo stars](https://img.shields.io/github/issues/pmndrs/jotai?style=flat&color=red&label=) | ![GitHub Repo stars](https://img.shields.io/github/issues-pr/pmndrs/jotai?style=flat&color=E09F3E&label=) | ![GitHub Repo stars](https://img.shields.io/github/license/pmndrs/jotai?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/commit-activity/m/pmndrs/jotai?style=flat&label=) | ![GitHub Repo stars](https://img.shields.io/github/created-at/pmndrs/jotai?style=flat&color=90708C&label=) |
+
+## CSS utility frameworks 
+
+## UI kit libraries 
+
+## books
+
+## lessons
+
+## Architecture (atomic design, feature sliced design, modular architecture etc)
