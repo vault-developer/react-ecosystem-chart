@@ -55,4 +55,13 @@ export const charts = [
             {name: 'Chai', repo: 'chaijs/chai', reactOnly: false},
         ]
     },
+    {
+        category: 'Lists with awesome resources',
+        items: [
+            {name: 'Awesome-react', repo: 'enaqx/awesome-react', reactOnly: true},
+            {name: 'Awesome-react-components', repo: 'brillout/awesome-react-components', reactOnly: true},
+            {name: 'Awesome-react-design-systems', repo: 'jbranchaud/awesome-react-design-systems', reactOnly: true},
+            {name: 'Best-of-react', repo: 'lukasmasuch/best-of-react', reactOnly: true},
+        ]
+    },
 ];
