@@ -4,7 +4,6 @@ export const columns = [
     { key: 'forks', title: 'Forks', type: 'badge', color: '589D7C' },
     { key: 'issues', title: 'Issues', type: 'badge', color: 'red' },
     { key: 'issues-pr', title: 'PRs', type: 'badge', color: 'E09F3E' },
-    { key: 'license', title: 'License', type: 'badge', color: 'green' },
     { key: 'commit-activity/m', title: 'Commit Activity', type: 'badge', color: 'blue' },
     { key: 'contributors-anon', title: 'Contributors', type: 'badge', color: '589D7C' },
     { key: 'created-at', title: 'Created At', type: 'badge', color: '90708C' },
