@@ -56,7 +56,16 @@ export const charts = [
         ]
     },
     {
-        category: 'Lists with awesome resources',
+        category: 'Application architecture',
+        items: [
+            {name: 'Bulletproof-react', repo: 'alan2207/bulletproof-react', reactOnly: true},
+            {name: 'Micro-frontends', repo: 'neuland/micro-frontends', reactOnly: false},
+            {name: 'Feature-sliced', repo: 'feature-sliced/documentation', reactOnly: false},
+            {name: 'Atomic-design', repo: 'bradfrost/atomic-design', reactOnly: false},
+        ]
+    },
+    {
+        category: 'Awesome lists',
         items: [
             {name: 'Awesome-react', repo: 'enaqx/awesome-react', reactOnly: true},
             {name: 'Awesome-react-components', repo: 'brillout/awesome-react-components', reactOnly: true},
