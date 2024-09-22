@@ -45,4 +45,14 @@ export const charts = [
             {name: 'Apollo-client', repo: 'apollographql/apollo-client', reactOnly: false},
         ]
     },
+    {
+        category: 'Unit testing',
+        items: [
+            {name: 'Jest', repo: 'jestjs/jest', reactOnly: false},
+            {name: 'Mocha', repo: 'mochajs/mocha', reactOnly: false},
+            {name: 'Enzyme', repo: 'enzymejs/enzyme', reactOnly: true},
+            {name: 'Testing library', repo: 'testing-library/react-testing-library', reactOnly: true},
+            {name: 'Chai', repo: 'chaijs/chai', reactOnly: false},
+        ]
+    },
 ];
