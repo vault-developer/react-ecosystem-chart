@@ -1,0 +1,12 @@
+{
+  "name": "react-ecosystem-chart",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React ecosystem chart",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Albert Trott",
+  "license": "MIT"
+}
