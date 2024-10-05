@@ -25,6 +25,7 @@ export const charts = [
             {name: 'Styled-components', repo: 'styled-components/styled-components', reactOnly: true},
             {name: 'Emotion', repo: 'emotion-js/emotion', reactOnly: true},
             {name: 'Unocss', repo: 'unocss/unocss', reactOnly: false},
+            {name: 'Linaria', repo: 'callstack/linaria', reactOnly: true},
         ]
     },
     {
