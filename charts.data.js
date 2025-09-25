@@ -63,6 +63,7 @@ export const charts = [
             {name: 'Micro-frontends', repo: 'neuland/micro-frontends', reactOnly: false},
             {name: 'Feature-sliced', repo: 'feature-sliced/documentation', reactOnly: false},
             {name: 'Atomic-design', repo: 'bradfrost/atomic-design', reactOnly: false},
+            {name: 'Evolution-design', repo: 'evo-community/evolution-design', reactOnly: false},
         ]
     },
     {
